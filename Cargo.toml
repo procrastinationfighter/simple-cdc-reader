@@ -10,3 +10,4 @@ tokio = { version = "1.12", features = ["full"] }
 scylla = "0.2.1"
 chrono = "0.4.19"
 hex = "0.4.3"
+futures-util = "0.3.17"
